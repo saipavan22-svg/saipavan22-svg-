@@ -1,5 +1,5 @@
 💫 About Me:
-I specialize in analyzing complex datasets, identifying trends, and building data visualizations that tell a story. With a strong foundation in statistics and business intelligence, I enjoy solving real-world problems through data-driven approaches.<br><br>🔍 Focused on data cleaning, exploratory analysis, and visualization<br>📊 Experienced in building dashboards and reports for stakeholders<br>🚀 Always exploring new tools and techniques to improve analytical workflows<br>🤝 Collaborative team player who bridges the gap between data and business decisions<br>Skills
+I specialize in analyzing complex datasets, identifying trends, and building data visualizations that tell a story. With a strong foundation in statistics and business intelligence, I enjoy solving real-world problems through data-driven approaches.<br><br>🔍 Focused on data cleaning, exploratory analysis, and visualization<br>📊 Experienced in building dashboards and reports for stakeholders<br>🚀 Always exploring new tools and techniques to improve analytical workflows<br>🤝 Collaborative team player who bridges the gap between data and business decisions
 
 
 ## 🌐 Socials:
